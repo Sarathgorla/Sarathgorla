@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarath Kumar Gorla</h1>
 <h3 align="center">I’m currently in my final year of pursuing a Bachelor's in Computer Science and Engineering at Kalasalingam University. I’m highly enthusiastic about technology and continuously strive to learn and explore new domains. I have hands-on experience with web development technologies like HTML, CSS, JavaScript, Node.js, Express.js, and databases like MongoDB. Additionally, I’m proficient in Python, C, and have a deep interest in solving Data Structures and Algorithms (DSA) problems. I have developed several projects, including a blogging app, an AI assistant that integrates with various APIs to solve complex tasks, a Medium article viewer for fetching and downloading articles, and a resources portal for my college. I having the 1109 coding score on GeeksforGeeks, and my current coding score reflects my commitment to improving my problem-solving skills.</h3>
 
+<p align="left">You can reach me via email at <a href="mailto:sarathkumargorla@gmail.com">sarathkumargorla@gmail.com</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sarath-kumar-gorla-955335234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarath kumar gorla" height="30" width="40" /></a>
