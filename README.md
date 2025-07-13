@@ -1,19 +1,91 @@
 <h1 align="center">Hi 👋, I'm Sarath Kumar Gorla</h1>
-<h3 align="center">I Recently completed my Bachelor's in Computer Science and Engineering at Kalasalingam University. I’m highly enthusiastic about technology and continuously strive to learn and explore new domains. I have hands-on experience with web development technologies like HTML, CSS, JavaScript, Node.js, Express.js, and databases like MongoDB. Additionally, I’m proficient in Python, C, and have a deep interest in solving Data Structures and Algorithms (DSA) problems. I have developed several projects, including a blogging app, an AI assistant that integrates with various APIs to solve complex tasks, a Medium article viewer for fetching and downloading articles, and a resources portal for my college. I having the 1109 coding score on GeeksforGeeks, and my current coding score reflects my commitment to improving my problem-solving skills.</h3>
+<h3 align="center">
+  Aspiring Software Engineer | Backend & Full-Stack Developer | Problem Solver
+</h3>
 
-<p align="left">You can reach me via email at <a href="mailto:sarathkumargorla@gmail.com">sarathkumargorla@gmail.com</a></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sarath-kumar-gorla-955335234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarath kumar gorla" height="30" width="40" /></a>
-<a href="https://instagram.com/g.sarathkumar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/g.sarathkumar_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarath123sa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarath123sa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gorlasarathkuma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gorlasarathkuma1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarathkumar63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarathkumar63" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gorlasarathkumar667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gorlasarathkumar667" height="30" width="40" /></a>
+<p align="center">
+  🚀 Currently a Web Development Intern @Zymo | Solved 500+ DSA Problems on LeetCode & GFG | CodeChef & Postman Certified
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathgorla&show_icons=true&locale=en&layout=compact" alt="sarathgorla" /></p>
+### 🎓 About Me
+
+I recently graduated with a B.Tech in Computer Science and Engineering from **Kalasalingam Academy of Research and Education** (2021–2025) with a CGPA of 7.54.  
+I am passionate about technology and constantly exploring new areas in software development and problem-solving.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript, Python, C  
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Core CS:** DSA, OOP, DBMS, OS, CN, SQL, Software Design  
+- **Tools & Platforms:** Postman, Git, GitHub, VsCode
+- **Currently Exploring:** Firebase, System Design
+
+---
+
+### 🏆 Achievements
+
+- Solved **500+ DSA problems** (GFG Score: 1109)  
+- 1st Prize in DSA Coding Contest (1000+ participants)  
+- 2nd Prize in IBM Paper Presentation (70+ teams)  
+
+---
+
+### 🌟 Key Projects
+
+- **AI Assistant:** Integrated Gemini API for content generation, grammar checking, image & caption generation  
+- **Blogging Platform:** Full-featured CRUD app with secure authentication & bcrypt encryption  
+- **College Resources Portal:** Centralized platform to share academic content for students and faculty  
+
+---
+
+### 📜 Certifications
+
+- CodeChef – DSA Certification  
+- Postman – API Fundamentals Student Expert  
+
+---
+
+### 📫 Connect with Me
+
+- Email: [sarathkumargorla@gmail.com](mailto:sarathkumargorla@gmail.com)  
+- Phone: +91 6304486971  
+- LinkedIn: [linkedin.com/in/sarath-kumar-gorla-955335234](https://www.linkedin.com/in/sarath-kumar-gorla-955335234/)  
+- Instagram: [@g.sarathkumar_](https://instagram.com/g.sarathkumar_/)  
+- CodeChef: [sarath123sa](https://www.codechef.com/users/sarath123sa)  
+- HackerRank: [@gorlasarathkuma1](https://www.hackerrank.com/@gorlasarathkuma1)  
+- LeetCode: [sarathkumar63](https://www.leetcode.com/sarathkumar63)  
+- GeeksforGeeks: [gorlasarathkumar667](https://auth.geeksforgeeks.org/user/gorlasarathkumar667)  
+
+---
+
+### 🔧 Languages and Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sarathgorla&show_icons=true&locale=en&layout=compact)
+
+---
+
+Thank you for visiting my profile! Let's connect and build something amazing together. 🚀
+
 
